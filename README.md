@@ -13,3 +13,6 @@ First make sure you have node.js and npm installed (in your path). Then follow t
 ## EasyRLBot documentation
 
 [github.com/SWZ-github/EasyRLBot/wiki](https://github.com/SWZ-github/EasyRLBot/wiki)
+
+
+Using this repo to mess with Javascript on the video game Rocket league!
