@@ -16,3 +16,4 @@ First make sure you have node.js and npm installed (in your path). Then follow t
 
 
 Using this repo to mess with Javascript on the video game Rocket league!
+Will be making a RL bot and using pre-existing ones. 
